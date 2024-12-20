@@ -16,4 +16,3 @@
   - Setting up GitHub Actions for continuous integration
   - Configuring workflows to run tests on commits and pull requests
   - Monitoring and analysing test results through GitHub
-
